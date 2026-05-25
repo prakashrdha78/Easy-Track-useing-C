@@ -15,9 +15,9 @@ This project was created as a university project.
 ---
 
 # 👨‍💻 Authors
-- Manjiri
+- Aditya
 - Prakash
-- Maroti
+- Shrikrushna
 - Dhiraj
 
 ---
